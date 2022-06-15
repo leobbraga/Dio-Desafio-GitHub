@@ -1,0 +1,13 @@
+cd
+dir/ls
+mkdir
+del/rmdir rm/rf
+git status
+mv
+add
+commit
+-m ()
+git config --list
+restore
+echo
+.md
